@@ -1,1 +1,1 @@
-[*Веб-страница*](https://owlonedev.github.io/Owlone-Dev/) для файла app-ads.txt
+[*Веб-страница*](https://owlonedev.github.io)
